@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BahisAuto</string>
+    <string name="title_football">Futbol</string>
+    <string name="title_basketball">Basketbol</string>
+</resources>
